@@ -1,0 +1,9 @@
+2026-07-17 10:14:08,465 - ERROR - Input validation failed: Side must be BUY or SELL.
+2026-07-17 11:11:19,827 - ERROR - Order placement failed: Network request failed: 401 Client Error: Unauthorized for url: https://testnet.binancefuture.com/fapi/v1/order?symbol=BTCUSDT&side=BUY&type=MARKET&quantity=0.001&timestamp=1784266878003&signature=4374b32291e93265d153bbed79da2ce6bfdc1698e0b915364c8e8668509f1f80
+2026-07-17 11:12:59,617 - ERROR - Order placement failed: Network request failed: 401 Client Error: Unauthorized for url: https://testnet.binancefuture.com/fapi/v1/order?symbol=BTCUSDT&side=BUY&type=MARKET&quantity=0.001&timestamp=1784266976746&signature=796cebb83d31412d69de18c394785375f0a512a4c66b12075921d13a9b7d1f33
+2026-07-17 11:31:37,726 - ERROR - Order placement failed: Network request failed: 401 Unauthorized
+2026-07-17 11:32:51,466 - ERROR - Order placement failed: Network request failed: 401 Unauthorized
+2026-07-17 11:38:37,286 - ERROR - Order placement failed: Network request failed: 401 Unauthorized
+2026-07-17 11:48:37,572 - ERROR - Order placement failed: Network request failed: 401 Unauthorized
+2026-07-17 12:11:20,844 - ERROR - Order placement failed: Network request failed: 401 Unauthorized
+2026-07-17 12:16:00,075 - ERROR - Order placement failed: Network request failed: 401 Unauthorized
